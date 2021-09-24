@@ -1,0 +1,7 @@
+140920210412, 22389,  "Swingline Model B2200 stapler", $18.00, 2, 0%, $36.00, 09/14/21, 04:12:18 PM EDT
+140920210412, 56718,  "Tamiya Mclaren MP4-8 Ford 1/20", $75.00, 12, 15%, $765.00, 09/14/21, 04:12:18 PM EDT
+140920210412, 2234983,  "Wilson NCAA official softball - 1 doz", $55.00, 1, 0%, $55.00, 09/14/21, 04:12:18 PM EDT
+140920210412, 387,  "Brachs butterscotch hard candy - 1 lb", $4.50, 387, 20%, $1393.20, 09/14/21, 04:12:18 PM EDT
+140920210412, 4499120,  "M&Ms dark chocolate w/peanuts - 3oz", $2.50, 20, 20%, $40.00, 09/14/21, 04:12:18 PM EDT
+140920210448, 14,  "Stanley #2 Philips Screwdriver", $6.95, 12, 15%, $70.89, 09/14/21, 04:48:49 PM EDT
+140920210448, 23,  "Tamiya 2oz paint - ferrari red", $2.39, 24, 20%, $45.89, 09/14/21, 04:48:49 PM EDT
